@@ -1,5 +1,5 @@
 # Machine Learning Notebooks
-This repository contains some of the machine learning notebooks I have coded for both class work and personal exploration. Below, you can find an overview of the contents of each file.
+This repository contains some of the machine learning notebooks I have coded for class work, internships, and personal exploration. Below, you can find an overview of the contents of each file.
 
 | File      | Description |
 | ----------- | ----------- |
@@ -11,4 +11,8 @@ This repository contains some of the machine learning notebooks I have coded for
 | gradient_descent.ipynb| A small exploration into local and global minimas in gradient descent. I used contour plots and 3D graphs for visualization. |
 | kmeans_clustering.ipynb   | Here I coded a KMeans model from scratch. I also experimented with the random seed to vary centroid intialization and observe the impact it had on model accuracy |
 | linear_regression.ipynb    | A basic implementation of linear regression from scratch. I also investigated the difference between linear and ridge regression  |
-| conv_net.ipynb      |        |
+| logistic_regression.ipynb  | Here I coded a logistic regression model from scratch and trained/tested the model on a widely used breast cancer dataset|
+| robust_pca.ipynb  | In this notebook I coded a robust PCA function from scratch which can isolate and extract the moving part (foreground) of a video. I applied my model to a elevator sequence with moving people and was able to isolate the people from the sequence! |
+| support_vector_machine.ipynb | Here, I code a SVM which solves the hard margin problem and another SVM which solves the primal problem. | 
+
+
